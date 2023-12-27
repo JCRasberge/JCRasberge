@@ -184,3 +184,161 @@ http://186.237.99.202:8000/play/History2/index.m3u8
 #EXTINF:-1,History HD
 http://186.237.99.202:8000/play/History/index.m3u8
 
+#EXTINF:-1,ID HD
+http://186.237.99.202:8000/play/ID/index.m3u8
+
+#EXTINF:-1,Lifetime HD
+http://186.237.99.202:8000/play/Lifetime/index.m3u8
+
+#EXTINF:-1,MTV HD
+http://186.237.99.202:8000/play/MTV/index.m3u8
+
+#EXTINF:-1,MTV LIVE HD
+http://186.237.99.202:8000/play/MTVLIVE/index.m3u8
+
+#EXTINF:-1,Mais Globosat HD
+http://186.237.99.202:8000/play/MaisGlobosat/index.m3u8
+
+#EXTINF:-1,Markket HD
+http://186.237.99.202:8000/play/Markket/index.m3u8
+
+#EXTINF:-1,Megapix HD
+http://186.237.99.202:8000/play/Megapix/index.m3u8
+
+#EXTINF:-1,Multishow HD
+http://186.237.99.202:8000/play/Multishow/index.m3u8
+
+#EXTINF:-1,Music Box Brazil HD
+http://186.237.99.202:8000/play/MusicBox/index.m3u8
+
+#EXTINF:-1,National Geographic HD
+http://186.237.99.202:8000/play/NatGeo/index.m3u8
+
+#EXTINF:-1,Nick Jr. HD
+http://186.237.99.202:8000/play/NickJr/index.m3u8
+
+#EXTINF:-1,Nickelodeon HD
+http://186.237.99.202:8000/play/Nickelodeon/index.m3u8
+
+#EXTINF:-1,OFF HD
+http://186.237.99.202:8000/play/OFF/index.m3u8
+
+#EXTINF:-1,Paramount HD
+http://186.237.99.202:8000/play/Paramount/index.m3u8
+
+#EXTINF:-1,Playboy TV HD
+http://186.237.99.202:8000/play/Playboy/index.m3u8
+
+#EXTINF:-1,Premiere 2 HD
+http://186.237.99.202:8000/play/PFC2/index.m3u8
+
+#EXTINF:-1,Premiere 3 HD
+http://186.237.99.202:8000/play/PFC3/index.m3u8
+
+#EXTINF:-1,Premiere 4 HD
+http://186.237.99.202:8000/play/PFC4/index.m3u8
+
+#EXTINF:-1,Premiere 5 HD
+http://186.237.99.202:8000/play/PFC5/index.m3u8
+
+#EXTINF:-1,Premiere 6 HD
+http://186.237.99.202:8000/play/PFC6/index.m3u8
+
+#EXTINF:-1,Premiere 7 HD
+http://186.237.99.202:8000/play/PFC7/index.m3u8
+
+#EXTINF:-1,Premiere Clubes HD
+http://186.237.99.202:8000/play/PFC/index.m3u8
+
+#EXTINF:-1,Prime Box Brazil HD
+http://186.237.99.202:8000/play/PrimeBox/index.m3u8
+
+#EXTINF:-1,Record News HD
+http://186.237.99.202:8000/play/RecordNews/index.m3u8
+
+#EXTINF:-1,Rede Vida HD
+http://186.237.99.202:8000/play/RedeVida/index.m3u8
+
+#EXTINF:-1,SBT HD
+http://186.237.99.202:8000/play/SBTSP/index.m3u8
+
+#EXTINF:-1,SYFY HD
+http://186.237.99.202:8000/play/SYFY/index.m3u8
+
+#EXTINF:-1,Space HD
+http://186.237.99.202:8000/play/Space/index.m3u8
+
+#EXTINF:-1,SporTV HD
+http://186.237.99.202:8000/play/SporTV/index.m3u8
+
+#EXTINF:-1,SporTV2 HD
+http://186.237.99.202:8000/play/SporTV2/index.m3u8
+
+#EXTINF:-1,SporTV3 HD
+http://186.237.99.202:8000/play/SporTV3/index.m3u8
+
+#EXTINF:-1,Studio Universal HD
+http://186.237.99.202:8000/play/StudioUniversal/index.m3u8
+
+#EXTINF:-1,TBS HD
+http://186.237.99.202:8000/play/TBS/index.m3u8
+
+#EXTINF:-1,TLC HD
+http://186.237.99.202:8000/play/TLC/index.m3u8
+
+#EXTINF:-1,TNT HD
+http://186.237.99.202:8000/play/TNT/index.m3u8
+
+#EXTINF:-1,TNT Series HD
+http://186.237.99.202:8000/play/TNTSeries/index.m3u8
+
+#EXTINF:-1,TV Aparecida
+http://186.237.99.202:8000/play/TVAparecida/index.m3u8
+
+#EXTINF:-1,TV Brasil HD
+http://186.237.99.202:8000/play/TVBrasil/index.m3u8
+
+#EXTINF:-1,TV Novo Tempo HD
+http://186.237.99.202:8000/play/TVNovoTempo/index.m3u8
+
+#EXTINF:-1,TV RÆ Tim Bum HD
+http://186.237.99.202:8000/play/TVRATIMBUM/index.m3u8
+
+#EXTINF:-1,Telecine Action HD
+http://186.237.99.202:8000/play/TCAction/index.m3u8
+
+#EXTINF:-1,Telecine Cult HD
+http://186.237.99.202:8000/play/TCCult/index.m3u8
+
+#EXTINF:-1,Telecine Fun HD
+http://186.237.99.202:8000/play/TCFun/index.m3u8
+
+#EXTINF:-1,Telecine Pipoca HD
+http://186.237.99.202:8000/play/TCPipoca/index.m3u8
+
+#EXTINF:-1,Telecine Premium HD
+http://186.237.99.202:8000/play/TCPremium/index.m3u8
+
+#EXTINF:-1,Telecine Touch HD
+http://186.237.99.202:8000/play/TCTouch/index.m3u8
+
+#EXTINF:-1,Travel Box Brazil HD
+http://186.237.99.202:8000/play/TravelBox/index.m3u8
+
+#EXTINF:-1,Universal TV HD
+http://186.237.99.202:8000/play/Universal/index.m3u8
+
+#EXTINF:-1,VH1 HD
+http://186.237.99.202:8000/play/VH1/index.m3u8
+
+#EXTINF:-1,Viva HD
+http://186.237.99.202:8000/play/Viva/index.m3u8
+
+#EXTINF:-1,Warner Channel HD
+http://186.237.99.202:8000/play/Warner/index.m3u8
+
+#EXTINF:-1,Woohoo HD
+http://186.237.99.202:8000/play/Woohoo/index.m3u8
+
+#EXTINF:-1,Zoomoo HD
+http://186.237.99.202:8000/play/Zoomoo/index.m3u8
